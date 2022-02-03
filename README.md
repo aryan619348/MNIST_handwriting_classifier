@@ -11,4 +11,5 @@ Start a local server at the location where you have downloaded the repository an
 and click on mnist.html
 
 Expected Output:
-<img width="1680" alt="Screen Shot 2022-02-03 at 10 58 35 PM (2)" src="https://user-images.githubusercontent.com/46323314/152379355-a67b42da-a333-4dde-942a-d702907cbdc7.png">
+
+![Screen Shot 2022-02-03 at 10 58 35 PM](https://user-images.githubusercontent.com/46323314/152379528-dbc8d5a9-7012-461b-8dcc-f739916a411a.png)
