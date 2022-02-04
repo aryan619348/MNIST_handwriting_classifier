@@ -1,4 +1,4 @@
-# MNIST_handrwiting_calssifier
+# MNIST_handwriting_calssifier
 
 Created a MNIST handwritting classifier to introduce myself to tensorflow.js. 
 Always wondered how to deploy the models that I have created and came accross tensorflow.js. 
