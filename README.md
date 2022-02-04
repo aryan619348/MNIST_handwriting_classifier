@@ -1,8 +1,8 @@
 # MNIST_handwriting_classifier
 
-Created a MNIST handwritting classifier to introduce myself to tensorflow.js. 
+Created a MNIST handwriting classifier to introduce myself to tensorflow.js. 
 Always wondered how to deploy the models that I have created and came accross tensorflow.js. 
-I tweaked the MNIST model that I had worked on before and then used used to tensorflow.js to create a webpage for the model where users can actually draw and test the model in real time. 
+I tweaked the MNIST model that I had worked on before and then used tensorflow.js to create a webpage for the model where users can actually draw and test the model in real time. 
 
 To use this webpage I would suggest downloading the Web Server For Chrome:
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
